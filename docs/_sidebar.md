@@ -1,3 +1,6 @@
 * [Pinit](/)
+* [Material](/docs/material.md)
+* [Init](/docs/init.md)
+* [Install and Configure](/docs/configure.md)
 * [Contributing](/CONTRIBUTING.md)
 * [Licence](/LICENCE.md)

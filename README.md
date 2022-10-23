@@ -35,11 +35,24 @@ The **Raspberry Pi** is a **great card** to setup a lot of project like **server
 
 ## Getting Started
 
-1) TODO
+1) Buy some [Material](./docs/material.md) to build your server.
+2) Prepare the [system](./docs/init.md) you want on drive.
+3) [Install and Configure](./docs/configure.md) your server.
+
+Once your server is completed, you can access it with these links :
+
+- **SSH Access** : USER@192.168.X.X
+  - **Username** : USER
+  - **Password** : You have defined it
+- **Web UI** : [Cockpit](https://192.168.X.X:9090)
+  - Same as SSH Access
 
 ## Documentations
 
 - [Ideas](./docs/ideas.md)
+- [Material](./docs/material.md)
+- [Init](./docs/init.md)
+- [Install and Configure](./docs/configure.md)
 
 ## Development
 
